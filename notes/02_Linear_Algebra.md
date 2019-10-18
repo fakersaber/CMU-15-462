@@ -30,7 +30,7 @@ $$
   $$
   <e_i,e_j> = \begin{cases}
   	1, i=j\\
-  	0, otherwise
+  	0, otherwise\\
    \end{cases}
   $$
   即<ei,ej>表示ei在ej上的投影
