@@ -3,8 +3,8 @@
 ### Notes
 
 
-- [ ] 01 intro
-- [ ] 02 linear algebra
+- [x] 01 intro
+- [x] 02 linear algebra
 - [ ] 03 vector calculus
 - [ ] 04 draw a triangle
 - [ ] 05 transformation
