@@ -1,5 +1,16 @@
 # 02_Linear_Algebra
 
+**Linear Map**
+
+- A map f is linear if it maps vectors to vectors, and if for all vectors u,v and scalars A we have:
+  $$
+  f(u+v) = f(u)+f(v)\\
+  f(au) = af(u)
+  $$
+  (不仅仅是向量满足该运算，如果函数满足上述条件也称为线性运算)
+
+
+
 **Linear Map in Coordinates**
 
 - A Map is linear if it can be expressed as
