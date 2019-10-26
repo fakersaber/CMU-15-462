@@ -27,6 +27,13 @@ $$
 
 - Affine is not a linear, eg. f(x) = ax + b
 
+- 仿射变换满足加权和（preserve weighted sums）
+  $$
+  f(w_1 x_1 + ... + w_nx_n) = \sum_i w_i f(x_i)\\
+  其中\sum_i w_i = 1
+  $$
+  
+
 **span**
 
 - the span is the set of all vectors that can be written as a linear combination of u and v.  show blow:
