@@ -240,3 +240,34 @@ B(f,g)
 & = 25 - 2(\frac{5}{4}xe^{4x}|_0^1 - \frac{5}{4}\int_0^1e^{4x}dx) + \frac{e^8-8}{8}
 \end{split}
 $$
+
+
+
+***Exercise 22***
+
+***(a)***
+$$
+\begin{bmatrix}
+9 & 0\\
+0 & 9\\
+1 & 1
+\end{bmatrix}
+$$
+***(b)***
+$$
+\begin{bmatrix}
+0 & 6 & 0\\
+0 & 0 & 6\\
+6 & 0 & 0
+\end{bmatrix}
+$$
+***(c)***
+
+matrix multiplication
+
+
+
+***Exercise 25***
+
+
+
