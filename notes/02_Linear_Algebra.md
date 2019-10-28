@@ -64,3 +64,24 @@ $$
 
 ![1571405126482](assets/1571405126482.png)
 
+**Bilinear And Quadratic Forms**
+$$
+B(ax+by,z) = aB(x,z) +bB(y,z)\\
+B(x,ay+bz) = aB(x,y) +bB(x,z)
+$$
+A quadratic form is any map 
+$$
+Q : Rn → R
+$$
+ that satisﬁes 
+$$
+Q(ax) = a^2Q(x)
+$$
+记
+$$
+Q(x) = B(x,x) = ax_1^2+bx_1x_2+cx_2^2
+$$
+所以有
+$$
+B(x,y) := \frac12 (Q(x+y)−Q(x)−Q(y)).
+$$
